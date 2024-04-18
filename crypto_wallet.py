@@ -38,6 +38,8 @@ def generate_account():
 
     return account, private
 
+# needed to also return private key to call/use in krypto_jobs.py
+
 
 def get_balance(w3, address):
     """Using an Ethereum account address access the balance of Ether"""

@@ -162,6 +162,7 @@ st.sidebar.markdown("## Client Account Address and Ethernet Balance in Ether")
 #  Call the `generate_account` function and save it as the variable `account`
 
 account, private = generate_account()
+# also saved private key to use below when calling send_transaction()
 
 ##########################################
 
