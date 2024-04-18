@@ -11,31 +11,26 @@
 Integrating these two files allows us to automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via a personal Ethereum blockchain called Ganache.
 
 
-#### Inspect the Transaction
+### Inspect the Transaction
 
 A test transaction was completed using the application’s web interface. The resulting transaction was then looked up in Ganache. Please see images below:
 
+
+**Overview of Streamlit Interface**
+
+![streamlit_interface](Images/Streamlit_interface.png)
+
 **Adress Balance and History on Ganache**
 
-![address balance and history](Images/Address_BalanceandHistory)
+![address_balance_and_history](Images/Address_BalanceandHistory.png)
+
+**Transaction Details on Ganache**
+
+![transaction_details](Images/Transaction_Details.png)
+
+**Validated Transaction**
+
+![validated transaction hash](Validated_Transaction.png)
 
 
-    * Take a screenshot of your address balance and history on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
-    * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
-5. Return to the original transaction, and click the transaction’s To address.
-
-* Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
----
-
-## Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Final requirement includes: "Return to the original transaction, and click the transaction’s To address. Take a screenshot of the recipient’s address balance and history from your Ganache application." Clicking on the "to address" or searching the address is not possible to see the recipient's (in this case Jo's) address balance and history on Ganache. 
