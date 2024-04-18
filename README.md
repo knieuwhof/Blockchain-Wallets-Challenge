@@ -21,7 +21,7 @@ A test transaction was completed using the application’s web interface. The re
 
 **Address Balance and History on Ganache**
 
-![address](Images/Address.png)
+![address](Images/addressBalance.png)
 
 **Transaction Details on Ganache**
 
