@@ -19,9 +19,9 @@ A test transaction was completed using the application’s web interface. The re
 
 ![streamlit](Images/Streamlit_interface.png)
 
-**Adress Balance and History on Ganache**
+**Address Balance and History on Ganache**
 
-![address](Images/Address_BalanceandHistory.png)
+![address](Images/Address.png)
 
 **Transaction Details on Ganache**
 
